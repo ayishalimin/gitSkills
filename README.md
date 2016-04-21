@@ -1,2 +1,4 @@
 # gitSkills
-create a new branch called dev and it is simple.
+
+create a new branch called dev is quick and simple
+
